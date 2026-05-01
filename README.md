@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">🚀 Alex Santos</h1>
 
-<!--
-**alexsantoscss/alexsantoscss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Criando+sites+que+vendem;Focado+em+UX%2FUI+e+Performance" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mim
+
+🎯 Desenvolvedor focado em criar experiências digitais modernas, rápidas e com alto poder de conversão.  
+📚 Estudante do ensino médio evoluindo constantemente na área de tecnologia.  
+🚀 Construindo projetos reais com foco em resultado e impacto visual.
+
+---
+
+## ⚡ Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+</p>
+
+---
+
+## 🔥 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsantoscss&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantoscss&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+✨ Landing Pages modernas e responsivas  
+🔐 Sistemas com autenticação e dashboard  
+📊 Interfaces estilo SaaS  
+🎬 Clones de plataformas famosas  
+
+---
+
+## 🎯 Objetivo
+
+Criar soluções digitais que unem design, tecnologia e estratégia para gerar resultados reais.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:coldcreativestudio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5598984469380">
+    <img src="https://img.shields.io/badge/WhatsApp-7F3FBF?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexsantoscss&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
+</p>
