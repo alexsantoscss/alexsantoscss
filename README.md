@@ -45,10 +45,10 @@ Criar soluções digitais que unem design, tecnologia e estratégia para gerar r
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:coldcreativestudio@gmail.com">
+  <a href="mailto:alex0sant6@gmail.com">
     <img src="https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/5598984469380">
+  <a href="https://wa.me/5598988586465">
     <img src="https://img.shields.io/badge/WhatsApp-7F3FBF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
