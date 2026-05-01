@@ -27,15 +27,6 @@
 
 ---
 
-## 🔥 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsantoscss&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantoscss&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Projetos em destaque
 
 ✨ Landing Pages modernas e responsivas  
@@ -60,14 +51,6 @@ Criar soluções digitais que unem design, tecnologia e estratégia para gerar r
   <a href="https://wa.me/5598984469380">
     <img src="https://img.shields.io/badge/WhatsApp-7F3FBF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
----
-
-## ⚡ Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexsantoscss&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
