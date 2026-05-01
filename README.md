@@ -9,7 +9,7 @@
 ## 💻 Sobre mim
 
 🎯 Desenvolvedor focado em criar experiências digitais modernas, rápidas e com alto poder de conversão.  
-📚 Estudante do ensino médio evoluindo constantemente na área de tecnologia.  
+📚 Em constante evolução na área de tecnologia.  
 🚀 Construindo projetos reais com foco em resultado e impacto visual.
 
 ---
